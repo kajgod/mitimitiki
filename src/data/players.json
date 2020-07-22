@@ -1,0 +1,25 @@
+[
+    {
+        "id": 0,
+        "name": "Leonardo",
+        "surname": "Starešinčić",
+        "avatar": "leonardo.jpg",
+        "level": 5,
+        "achievements": [
+            0,
+            1
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Sergej",
+        "surname": "Starešinčić",
+        "avatar": "sergej.jpg",
+        "level": 4,
+        "achievements": [
+            0,
+            1,
+            2
+        ]
+    }
+]

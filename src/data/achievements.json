@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "avatar": "036-monkey",
+        "name": "School competitor",
+        "description": "Completed at least one school-level math competition in training"
+    },
+    {
+        "id": 1,
+        "avatar": "002-whale",
+        "name": "School achiever",
+        "description": "Get at least 50% score on school-level math competition in training"
+    },
+    {
+        "id": 2,
+        "avatar": "018-duck",
+        "name": "School scholar",
+        "description": "Get 100% score on school-level math competition in training"
+    },
+    {
+        "id": 3,
+        "avatar": "017-dog",
+        "name": "County competitor",
+        "description": "Completed at least one county-level math competition in training"
+    },
+    {
+        "id": 4,
+        "avatar": "042-koala",
+        "name": "County achiever",
+        "description": "Get at least 50% score on county-level math competition in training"
+    },
+    {
+        "id": 5,
+        "avatar": "016-cat",
+        "name": "County scholar",
+        "description": "Get 100% score on county-level math competition in training"
+    },
+    {
+        "id": 6,
+        "avatar": "038-butterfly",
+        "name": "National competitor",
+        "description": "Completed at least one national-level math competition in training"
+    },
+    {
+        "id": 7,
+        "avatar": "047-deer",
+        "name": "National achiever",
+        "description": "Get at least 50% score on national-level math competition in training"
+    },
+    {
+        "id": 8,
+        "avatar": "033-penguin",
+        "name": "National scholar",
+        "description": "Get 100% score on national-level math competition in training"
+    }
+]
