@@ -15,7 +15,7 @@
         "id": 2,
         "avatar": "018-duck",
         "name": "School scholar",
-        "description": "Get 100% score on school-level math competition in training"
+        "description": "Get almost 100% score on school-level math competition in training"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "id": 5,
         "avatar": "016-cat",
         "name": "County scholar",
-        "description": "Get 100% score on county-level math competition in training"
+        "description": "Get almost 100% score on county-level math competition in training"
     },
     {
         "id": 6,
@@ -51,6 +51,6 @@
         "id": 8,
         "avatar": "033-penguin",
         "name": "National scholar",
-        "description": "Get 100% score on national-level math competition in training"
+        "description": "Get almost 100% score on national-level math competition in training"
     }
 ]
