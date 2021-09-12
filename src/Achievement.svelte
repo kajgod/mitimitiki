@@ -1,6 +1,6 @@
 <script>
   import { slide } from "svelte/transition";
-  export let id, avatar, name, description, achieved;
+  export let id, avatar, name, description, achieved, level;
   let visible = false;
   const state = achieved ? "achieved" : "pending";
   const avatarSrc = `./images/${state}/${avatar}.svg`;
@@ -61,7 +61,7 @@
     <img src={avatarSrc} alt="" />
   </figure>
   <div class="achievement__details">
-    <div class="achievement__caption">{name}</div>
+    <div class="achievement__caption">L{level}: {name}</div>
     {#if visible}
       <div class="achievement__description" transition:slide>{description}</div>
     {/if}

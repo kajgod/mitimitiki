@@ -48,7 +48,9 @@
       <img src={`./images/${avatar}`} alt={`${name} ${surname}`} />
     </figure>
     <h2>{name}</h2>
-    <h3>Level {level}</h3>
+    <!-- <h3>Level {level[level.length-1]}</h3> -->
   </header>
-  <Achievements {achievements} />
+  {#each level as singleLevel, i}
+    <Achievements {achievements} {singleLevel} visible={i == level.length-1}/>
+  {/each}
 </section>
